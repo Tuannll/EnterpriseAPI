@@ -1,0 +1,30 @@
+## Ignore Visual Studio / .NET Core build artifacts
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Log]s/
+
+# Visual Studio Code
+.vscode/
+
+# SQLite databases
+*.db
+*.sqlite
+
+# Log files
+*.log
+
+# MS Office temporary files
+~$*
+
+# OS metadata
+.DS_Store
+Thumbs.db
